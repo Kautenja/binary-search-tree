@@ -7,11 +7,11 @@
 
 # Roadmap
 
-- [x] insert
-- [x] remove
-- [ ] find
-- [x] min
-- [x] max
+- [x] insert node
+- [x] remove node
+- [x] find node with minimum key
+- [x] find node with maximum key
+- [ ] find node with given key
 
 # Usage
 
